@@ -1,4 +1,4 @@
 # Demo-repository
 This is my first git repository
 <br>
-Author - Laher Chouksey
+Author - Laher Chouksey(Tit College)
